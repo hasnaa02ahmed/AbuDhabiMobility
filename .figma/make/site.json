@@ -1,0 +1,10 @@
+{
+  "description": "A polished web experience that presents information in a clear, engaging format, helping users quickly explore content and find what they need.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
